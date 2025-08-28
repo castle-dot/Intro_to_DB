@@ -1,4 +1,4 @@
-CREATE DATABASE alx_book_store 
+CREATE DATABASE if not exists alx_book_store;
 USE alx_book_store;
 
 CREATE TABLE Authors (
